@@ -1,0 +1,128 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="12cm" height="12cm" viewBox="119 149 660 690"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>Example35a.svg</title>
+<polyline points="518.1,584.1 348.9,536.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="213.7,620.4 308.3,573.3" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="282.7,548.7 308.3,573.3" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="282.7,548.7 281.0,482.1" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="150.0,552.2 262.1,475.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="202.2,429.2 255.9,452.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="202.2,429.2 244.4,422.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="186.3,323.0 238.2,337.7" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="307.5,179.6 277.7,317.4" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="352.7,338.9 307.4,351.8" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="352.7,338.9 384.6,381.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="520.8,214.2 432.6,377.4" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="510.2,396.5 441.4,392.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="510.2,396.5 523.1,448.7" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="650.0,361.9 541.3,450.6" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="569.5,531.0 541.3,450.6" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="260.6,381.4 286.8,327.3" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="260.6,381.4 237.4,410.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="541.3,450.6 523.1,448.7" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="308.3,573.3 320.2,566.0  330.8,557.3  340.3,547.3  348.9,536.5"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="523.1,448.7 514.6,447.5  506.6,445.7  499.0,443.3  491.8,440.4  484.9,437.0  478.3,433.0  472.1,428.5  466.3,423.6  460.7,418.2  455.5,412.4  450.5,406.2  445.8,399.5  441.4,392.5"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="348.9,536.5 343.3,528.0  337.3,520.1  330.7,512.8  323.7,506.1  316.1,500.1  308.1,494.7  299.5,489.9  290.5,485.7  281.0,482.1"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="441.4,392.5 432.6,377.4" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="281.0,482.1 262.1,475.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="432.6,377.4 384.6,381.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="262.1,475.9 255.9,452.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="384.6,381.9 377.0,382.4  369.6,382.4  362.4,381.8  355.4,380.7  348.6,379.1  342.0,377.0  335.7,374.2  329.5,370.9  323.6,367.1  318.0,362.6  312.6,357.5  307.4,351.8"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="255.9,452.0 251.2,437.0  244.4,422.9"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="307.4,351.8 286.8,327.3" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="244.4,422.9 237.4,410.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="286.8,327.3 277.7,317.4"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="237.4,410.9 233.9,404.2  231.3,397.5  229.4,390.9  228.3,384.2  227.8,377.5  228.1,370.9  228.9,364.2  230.4,357.6  232.4,351.0  235.0,344.4  238.2,337.7"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="277.7,317.4 263.7,322.6  250.5,329.3  238.2,337.7"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="213.7,620.4 282.7,548.7" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="282.7,548.7 150.0,552.2" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="150.0,552.2 202.2,429.2" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="202.2,429.2 186.3,323.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="186.3,323.0 307.5,179.6" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="307.5,179.6 352.7,338.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="352.7,338.9 520.8,214.2" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="520.8,214.2 510.2,396.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="510.2,396.5 650.0,361.9" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="650.0,361.9 569.5,531.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="569.5,531.0 260.6,381.4" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="260.6,381.4 518.1,584.1" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="518.1,584.1 213.7,620.4" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<circle cx="541.3" cy="450.6" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="308.3" cy="573.3" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="523.1" cy="448.7" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="348.9" cy="536.5" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="441.4" cy="392.5" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="281.0" cy="482.1" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="432.6" cy="377.4" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="262.1" cy="475.9" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="384.6" cy="381.9" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="255.9" cy="452.0" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="307.4" cy="351.8" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="244.4" cy="422.9" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="286.8" cy="327.3" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="237.4" cy="410.9" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="277.7" cy="317.4" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="238.2" cy="337.7" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="213.7" cy="620.4" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="282.7" cy="548.7" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="150.0" cy="552.2" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="202.2" cy="429.2" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="186.3" cy="323.0" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="307.5" cy="179.6" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="352.7" cy="338.9" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="520.8" cy="214.2" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="510.2" cy="396.5" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="650.0" cy="361.9" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="569.5" cy="531.0" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="260.6" cy="381.4" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="518.1" cy="584.1" r="4" stroke="black" stroke-width="1" fill="white"/>
+</svg>

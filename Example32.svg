@@ -1,0 +1,74 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="15cm" height="15cm" viewBox="120 155 660 685"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<title>Example32.svg</title>
+<text x="150" y="175" fill="black">Example32.svg</text>
+<polyline points="230.9,248.6 264.6,413.3" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="150.0,410.5 264.6,413.3" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="237.3,608.6 297.1,457.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="362.7,555.0 322.4,460.8" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="362.7,555.0 386.2,481.6" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="550.0,615.0 500.7,521.4" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="650.0,280.5 557.5,317.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="486.4,185.0 557.5,317.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="471.8,453.2 533.2,456.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="471.8,453.2 428.0,504.8" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="557.5,317.0 533.2,456.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="264.6,413.3 297.1,457.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="533.2,456.5 530.4,468.7  526.6,480.2  521.6,491.3  515.6,501.8  508.6,511.8  500.7,521.4"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="297.1,457.0 322.4,460.8" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="500.7,521.4 487.9,521.5  475.4,520.4  463.2,518.2  451.2,514.9  439.4,510.5  428.0,504.8"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="322.4,460.8 339.1,463.9  355.3,468.3  371.0,474.2  386.2,481.6"
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="386.2,481.6 428.0,504.8" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="150.0,410.5 237.3,608.6" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="237.3,608.6 362.7,555.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="362.7,555.0 550.0,615.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="550.0,615.0 650.0,280.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="650.0,280.5 486.4,185.0" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="486.4,185.0 471.8,453.2" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="471.8,453.2 230.9,248.6" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<polyline points="230.9,248.6 150.0,410.5" 
+style="fill:white;stroke:black;stroke-width:1"/>
+<circle cx="557.5" cy="317.0" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="264.6" cy="413.3" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="533.2" cy="456.5" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="297.1" cy="457.0" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="500.7" cy="521.4" r="4" stroke="black" stroke-width="1" fill="pink"/>
+<circle cx="322.4" cy="460.8" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="386.2" cy="481.6" r="2" stroke="black" stroke-width="1" fill="black"/>
+<circle cx="428.0" cy="504.8" r="2" stroke="black" stroke-width="2" fill="black"/>
+<circle cx="150.0" cy="410.5" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="237.3" cy="608.6" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="362.7" cy="555.0" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="550.0" cy="615.0" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="650.0" cy="280.5" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="486.4" cy="185.0" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="471.8" cy="453.2" r="4" stroke="black" stroke-width="1" fill="white"/>
+<circle cx="230.9" cy="248.6" r="4" stroke="black" stroke-width="1" fill="white"/>
+</svg>
